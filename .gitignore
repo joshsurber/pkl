@@ -14,7 +14,7 @@
 **/* - Copy/
 *Shortcut.???
 *desktop.ini
-*_Override.ini
+# *_Override.ini
 Layouts/**/*ImgGen_*
 *PKL.exe
 EPKL_*xecutable*.zip
